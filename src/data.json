@@ -10,7 +10,7 @@
     "secondary_color": "Bleu"
   },
   {
-    "id": 9,
+    "id": 64,
     "code": "#884da7",
     "name": "Améthyste",
     "tint": "Violet",
@@ -30,7 +30,7 @@
     "secondary_color": "Rouge"
   },
   {
-    "id": 9,
+    "id": 65,
     "code": "#da70d6",
     "name": "Orchidée",
     "tint": "Violet",
@@ -111,7 +111,7 @@
     },  
     {
       "id": 15,
-      "code": "#26c4ec",
+      "code": "#03224c",
       "name": "Bleu marine",
       "tint": "Bleu",
       "luminosity": "Foncé",
@@ -161,7 +161,7 @@
     },
     {
       "id": 18,
-      "code": "#26619c",
+      "code": "#01d758",
       "name": "Émeraude",
       "tint": "Vert",
       "luminosity": "Clair",
