@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.e9a4e51d.css",
-    "main.js": "/static/js/main.9e41ea34.js",
+    "main.js": "/static/js/main.ee1523ae.js",
     "static/js/453.40f3473e.chunk.js": "/static/js/453.40f3473e.chunk.js",
     "static/media/colordle-logo.png": "/static/media/colordle-logo.a61650eee8456200b7e0.png",
     "index.html": "/index.html",
     "main.e9a4e51d.css.map": "/static/css/main.e9a4e51d.css.map",
-    "main.9e41ea34.js.map": "/static/js/main.9e41ea34.js.map",
+    "main.ee1523ae.js.map": "/static/js/main.ee1523ae.js.map",
     "453.40f3473e.chunk.js.map": "/static/js/453.40f3473e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9a4e51d.css",
-    "static/js/main.9e41ea34.js"
+    "static/js/main.ee1523ae.js"
   ]
 }
