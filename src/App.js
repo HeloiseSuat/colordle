@@ -1,4 +1,4 @@
-import logo from './colordle-logo.png';
+import logo from './colordle.png';
 import Home from './layout/Home.js';
 import getDailyElement from './utils/randomColor';
 import './App.css';
